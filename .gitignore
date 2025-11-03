@@ -4,7 +4,7 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Videofiles
+# Big files
 .mp4
 .deb
 
