@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <data>
   <row>
-    <index>0</index>
     <Marke>Apple</Marke>
     <Modell>iPhone 12</Modell>
     <Baujahr>2020</Baujahr>
@@ -9,7 +8,6 @@
     <Preis>799</Preis>
   </row>
   <row>
-    <index>1</index>
     <Marke>Samsung</Marke>
     <Modell>Galaxy S21</Modell>
     <Baujahr>2021</Baujahr>
@@ -17,7 +15,6 @@
     <Preis>999</Preis>
   </row>
   <row>
-    <index>2</index>
     <Marke>Google</Marke>
     <Modell>Pixel 5</Modell>
     <Baujahr>2020</Baujahr>
@@ -25,7 +22,6 @@
     <Preis>699</Preis>
   </row>
   <row>
-    <index>3</index>
     <Marke>OnePlus</Marke>
     <Modell>8 Pro</Modell>
     <Baujahr>2020</Baujahr>
