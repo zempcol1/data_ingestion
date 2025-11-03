@@ -6,6 +6,7 @@ __pycache__/
 
 # Videofiles
 .mp4
+.deb
 
 # Folders
 00_Video_Tutorial_Installations
