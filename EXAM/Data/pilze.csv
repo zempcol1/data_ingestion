@@ -1,0 +1,51 @@
+Artname;Familie;Hutfarbe;Höhe_cm;Durchmesser_cm;Geruch;Lebensraum;Saison;Essbarkeit;Fundort
+Steinpilz;Amanitaceae;grau;9.1;6.0;pilzartig;Wald;Frühling;giftig;Deutschland
+Fliegenpilz;Amanitaceae;braun;7.8;11.1;angenehm;Gebirge;Sommer;giftig;Österreich
+Maronenröhrling;Sparassidaceae;weiß;12.9;7.0;angenehm;Wiese;Winter;ungenießbar;Deutschland
+Pfifferling;Agaricaceae;violett;10.4;3.7;angenehm;Garten;Herbst;giftig;Deutschland
+Fliegenpilz;Coprinaceae;orange;5.7;18.6;angenehm;Gebirge;Herbst;giftig;Österreich
+Parasol;Pleurotaceae;weiß;18.5;2.8;neutral;Garten;Frühling;essbar;Schweiz
+Krause Glucke;Morchellaceae;rot;17.0;8.6;unangenehm;Garten;Sommer;giftig;Deutschland
+Steinpilz;Pleurotaceae;grau;6.8;15.1;neutral;Park;Winter;ungenießbar;Österreich
+Maronenröhrling;Agaricaceae;grau;10.1;15.8;angenehm;Wiese;Frühling;ungenießbar;Deutschland
+Morchel;Boletaceae;weiß;23.1;12.2;pilzartig;Garten;Sommer;giftig;Deutschland
+Krause Glucke;Coprinaceae;weiß;8.8;6.4;nussig;Gebirge;Herbst;giftig;Österreich
+Krause Glucke;Pleurotaceae;rot;11.0;20.0;neutral;Gebirge;Winter;essbar;Schweiz
+Steinpilz;Cantharellaceae;grau;6.5;14.2;nussig;Wald;Winter;ungenießbar;Österreich
+Schopf-Tintling;Boletaceae;gelb;24.4;17.5;angenehm;Feuchtgebiet;Frühling;giftig;Österreich
+Morchel;Lepiota;braun;9.5;4.8;angenehm;Feuchtgebiet;Herbst;giftig;Schweiz
+Maronenröhrling;Boletaceae;violett;16.8;17.2;nussig;Gebirge;Sommer;essbar;Deutschland
+Pfifferling;Boletaceae;violett;23.3;18.5;nussig;Garten;Winter;essbar;Schweiz
+Parasol;Morchellaceae;weiß;4.3;17.8;angenehm;Wald;Winter;essbar;Österreich
+Pfifferling;Cantharellaceae;grau;13.5;11.9;unangenehm;Gebirge;Winter;essbar;Österreich
+Champignon;Morchellaceae;rot;24.9;13.7;faulig;Gebirge;Winter;essbar;Schweiz
+Champignon;Boletaceae;gelb;3.5;12.0;nussig;Wiese;Frühling;essbar;Österreich
+Fliegenpilz;Agaricaceae;braun;22.9;17.5;angenehm;Gebirge;Sommer;ungenießbar;Österreich
+Schopf-Tintling;Agaricaceae;orange;5.9;18.8;nussig;Gebirge;Winter;essbar;Deutschland
+Krause Glucke;Agaricaceae;braun;5.1;9.8;faulig;Park;Winter;giftig;Schweiz
+Steinpilz;Amanitaceae;rot;19.0;16.4;angenehm;Wiese;Sommer;essbar;Österreich
+Schopf-Tintling;Cantharellaceae;rot;7.0;10.3;angenehm;Park;Frühling;essbar;Österreich
+Maronenröhrling;Amanitaceae;braun;23.4;17.3;neutral;Park;Winter;ungenießbar;Schweiz
+Krause Glucke;Amanitaceae;weiß;11.3;19.7;unangenehm;Park;Herbst;ungenießbar;Österreich
+Maronenröhrling;Coprinaceae;weiß;7.2;5.9;angenehm;Gebirge;Frühling;giftig;Deutschland
+Fliegenpilz;Amanitaceae;orange;13.5;18.5;nussig;Wiese;Frühling;giftig;Schweiz
+Pfifferling;Boletaceae;orange;4.5;17.5;faulig;Wald;Sommer;giftig;Österreich
+Fliegenpilz;Pleurotaceae;braun;12.2;12.5;nussig;Garten;Herbst;essbar;Österreich
+Parasol;Agaricaceae;gelb;11.7;14.1;unangenehm;Park;Herbst;essbar;Schweiz
+Schopf-Tintling;Pleurotaceae;orange;24.9;3.3;neutral;Gebirge;Herbst;essbar;Deutschland
+Steinpilz;Agaricaceae;gelb;9.3;9.9;nussig;Feuchtgebiet;Herbst;giftig;Österreich
+Maronenröhrling;Amanitaceae;grau;21.0;7.4;pilzartig;Wald;Sommer;ungenießbar;Schweiz
+Steinpilz;Boletaceae;weiß;9.0;12.9;pilzartig;Garten;Sommer;giftig;Österreich
+Morchel;Boletaceae;rot;8.5;18.3;angenehm;Wald;Winter;ungenießbar;Schweiz
+Fliegenpilz;Lepiota;violett;5.9;19.6;neutral;Feuchtgebiet;Winter;giftig;Österreich
+Krause Glucke;Boletaceae;braun;5.5;19.0;pilzartig;Wiese;Frühling;ungenießbar;Österreich
+Maronenröhrling;Cantharellaceae;rot;5.8;7.5;angenehm;Garten;Sommer;giftig;Schweiz
+Steinpilz;Lepiota;violett;15.3;17.7;nussig;Feuchtgebiet;Sommer;essbar;Schweiz
+Pfifferling;Sparassidaceae;braun;6.9;18.6;faulig;Feuchtgebiet;Sommer;ungenießbar;Schweiz
+Steinpilz;Sparassidaceae;violett;3.9;10.5;neutral;Park;Herbst;ungenießbar;Schweiz
+Champignon;Amanitaceae;grau;7.2;7.9;angenehm;Garten;Herbst;giftig;Österreich
+Krause Glucke;Boletaceae;gelb;23.7;4.1;unangenehm;Wiese;Herbst;essbar;Schweiz
+Austernseitling;Sparassidaceae;gelb;19.0;7.6;nussig;Gebirge;Frühling;ungenießbar;Österreich
+Champignon;Morchellaceae;braun;18.6;2.0;nussig;Feuchtgebiet;Sommer;ungenießbar;Deutschland
+Steinpilz;Lepiota;orange;9.9;17.3;pilzartig;Garten;Herbst;giftig;Deutschland
+Parasol;Sparassidaceae;grau;9.5;4.3;faulig;Feuchtgebiet;Winter;giftig;Österreich

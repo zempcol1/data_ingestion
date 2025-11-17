@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gebaeudeListe>
+  <gebaeude id="B-001">
+    <adresse>
+      <strasse>Hauptstrasse 4</strasse>
+      <plz>8001</plz>
+      <ort>Zürich</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">3418.28</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-002">
+    <adresse>
+      <strasse>Bahnhofstrasse 7</strasse>
+      <plz>3001</plz>
+      <ort>Bern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">1575.03</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-003">
+    <adresse>
+      <strasse>Seestrasse 10</strasse>
+      <plz>4051</plz>
+      <ort>Basel</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">2325.09</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-004">
+    <adresse>
+      <strasse>Poststrasse 13</strasse>
+      <plz>6006</plz>
+      <ort>Luzern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">2169.63</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-005">
+    <adresse>
+      <strasse>Gartenweg 16</strasse>
+      <plz>9000</plz>
+      <ort>St. Gallen</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">3709.41</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-006">
+    <adresse>
+      <strasse>Schulweg 19</strasse>
+      <plz>8400</plz>
+      <ort>Winterthur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">3530.10</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-007">
+    <adresse>
+      <strasse>Bahnweg 22</strasse>
+      <plz>6300</plz>
+      <ort>Zug</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">4176.54</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-008">
+    <adresse>
+      <strasse>Kirchstrasse 25</strasse>
+      <plz>7000</plz>
+      <ort>Chur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">1760.82</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-009">
+    <adresse>
+      <strasse>Industriestrasse 28</strasse>
+      <plz>1003</plz>
+      <ort>Lausanne</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">2765.77</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-010">
+    <adresse>
+      <strasse>Marktplatz 31</strasse>
+      <plz>1201</plz>
+      <ort>Genf</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">1589.39</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-011">
+    <adresse>
+      <strasse>Hauptstrasse 34</strasse>
+      <plz>8001</plz>
+      <ort>Zürich</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">2155.91</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-012">
+    <adresse>
+      <strasse>Bahnhofstrasse 37</strasse>
+      <plz>3001</plz>
+      <ort>Bern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">3016.07</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-013">
+    <adresse>
+      <strasse>Seestrasse 40</strasse>
+      <plz>4051</plz>
+      <ort>Basel</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">1579.61</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-014">
+    <adresse>
+      <strasse>Poststrasse 43</strasse>
+      <plz>6006</plz>
+      <ort>Luzern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">2096.51</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-015">
+    <adresse>
+      <strasse>Gartenweg 46</strasse>
+      <plz>9000</plz>
+      <ort>St. Gallen</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">3449.65</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-016">
+    <adresse>
+      <strasse>Schulweg 49</strasse>
+      <plz>8400</plz>
+      <ort>Winterthur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">3134.82</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-017">
+    <adresse>
+      <strasse>Bahnweg 52</strasse>
+      <plz>6300</plz>
+      <ort>Zug</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">2161.32</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-018">
+    <adresse>
+      <strasse>Kirchstrasse 55</strasse>
+      <plz>7000</plz>
+      <ort>Chur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">3267.80</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-019">
+    <adresse>
+      <strasse>Industriestrasse 58</strasse>
+      <plz>1003</plz>
+      <ort>Lausanne</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">3928.29</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-020">
+    <adresse>
+      <strasse>Marktplatz 61</strasse>
+      <plz>1201</plz>
+      <ort>Genf</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">1519.50</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-021">
+    <adresse>
+      <strasse>Hauptstrasse 64</strasse>
+      <plz>8001</plz>
+      <ort>Zürich</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">3917.46</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-022">
+    <adresse>
+      <strasse>Bahnhofstrasse 67</strasse>
+      <plz>3001</plz>
+      <ort>Bern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">3594.42</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-023">
+    <adresse>
+      <strasse>Seestrasse 70</strasse>
+      <plz>4051</plz>
+      <ort>Basel</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">2520.75</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-024">
+    <adresse>
+      <strasse>Poststrasse 73</strasse>
+      <plz>6006</plz>
+      <ort>Luzern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">1966.44</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-025">
+    <adresse>
+      <strasse>Gartenweg 76</strasse>
+      <plz>9000</plz>
+      <ort>St. Gallen</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">4371.64</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-026">
+    <adresse>
+      <strasse>Schulweg 79</strasse>
+      <plz>8400</plz>
+      <ort>Winterthur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">2509.78</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-027">
+    <adresse>
+      <strasse>Bahnweg 82</strasse>
+      <plz>6300</plz>
+      <ort>Zug</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">1778.24</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-028">
+    <adresse>
+      <strasse>Kirchstrasse 85</strasse>
+      <plz>7000</plz>
+      <ort>Chur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">1790.15</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-029">
+    <adresse>
+      <strasse>Industriestrasse 88</strasse>
+      <plz>1003</plz>
+      <ort>Lausanne</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">4042.48</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-030">
+    <adresse>
+      <strasse>Marktplatz 91</strasse>
+      <plz>1201</plz>
+      <ort>Genf</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">3311.18</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-031">
+    <adresse>
+      <strasse>Hauptstrasse 94</strasse>
+      <plz>8001</plz>
+      <ort>Zürich</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">3921.38</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-032">
+    <adresse>
+      <strasse>Bahnhofstrasse 97</strasse>
+      <plz>3001</plz>
+      <ort>Bern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">3689.20</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-033">
+    <adresse>
+      <strasse>Seestrasse 3</strasse>
+      <plz>4051</plz>
+      <ort>Basel</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">3108.68</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-034">
+    <adresse>
+      <strasse>Poststrasse 6</strasse>
+      <plz>6006</plz>
+      <ort>Luzern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">4419.35</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-035">
+    <adresse>
+      <strasse>Gartenweg 9</strasse>
+      <plz>9000</plz>
+      <ort>St. Gallen</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">2635.60</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-036">
+    <adresse>
+      <strasse>Schulweg 12</strasse>
+      <plz>8400</plz>
+      <ort>Winterthur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">3156.12</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-037">
+    <adresse>
+      <strasse>Bahnweg 15</strasse>
+      <plz>6300</plz>
+      <ort>Zug</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">3988.21</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-038">
+    <adresse>
+      <strasse>Kirchstrasse 18</strasse>
+      <plz>7000</plz>
+      <ort>Chur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">3355.56</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-039">
+    <adresse>
+      <strasse>Industriestrasse 21</strasse>
+      <plz>1003</plz>
+      <ort>Lausanne</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">4085.12</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-040">
+    <adresse>
+      <strasse>Marktplatz 24</strasse>
+      <plz>1201</plz>
+      <ort>Genf</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">3232.06</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-041">
+    <adresse>
+      <strasse>Hauptstrasse 27</strasse>
+      <plz>8001</plz>
+      <ort>Zürich</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">3613.72</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-042">
+    <adresse>
+      <strasse>Bahnhofstrasse 30</strasse>
+      <plz>3001</plz>
+      <ort>Bern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">1637.47</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-043">
+    <adresse>
+      <strasse>Seestrasse 33</strasse>
+      <plz>4051</plz>
+      <ort>Basel</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">2183.69</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-044">
+    <adresse>
+      <strasse>Poststrasse 36</strasse>
+      <plz>6006</plz>
+      <ort>Luzern</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Gas</typ>
+      <kosten waehrung="CHF">2368.16</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-045">
+    <adresse>
+      <strasse>Gartenweg 39</strasse>
+      <plz>9000</plz>
+      <ort>St. Gallen</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Wärmepumpe</typ>
+      <kosten waehrung="CHF">1739.38</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-046">
+    <adresse>
+      <strasse>Schulweg 42</strasse>
+      <plz>8400</plz>
+      <ort>Winterthur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Öl</typ>
+      <kosten waehrung="CHF">2198.37</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-047">
+    <adresse>
+      <strasse>Bahnweg 45</strasse>
+      <plz>6300</plz>
+      <ort>Zug</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Pellet</typ>
+      <kosten waehrung="CHF">1803.00</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-048">
+    <adresse>
+      <strasse>Kirchstrasse 48</strasse>
+      <plz>7000</plz>
+      <ort>Chur</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Solarthermie</typ>
+      <kosten waehrung="CHF">2333.92</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-049">
+    <adresse>
+      <strasse>Industriestrasse 51</strasse>
+      <plz>1003</plz>
+      <ort>Lausanne</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Erdgas-Brennwert</typ>
+      <kosten waehrung="CHF">3407.05</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+  <gebaeude id="B-050">
+    <adresse>
+      <strasse>Marktplatz 54</strasse>
+      <plz>1201</plz>
+      <ort>Genf</ort>
+      <land>CH</land>
+    </adresse>
+    <heizung>
+      <typ>Fernwärme</typ>
+      <kosten waehrung="CHF">2594.50</kosten>
+      <jahr>2024</jahr>
+    </heizung>
+  </gebaeude>
+</gebaeudeListe>

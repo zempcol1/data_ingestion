@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Bicycles>
+  <Bicycle id="1">
+    <Brand>Specialized</Brand>
+    <Model>Mountain 859</Model>
+    <Type>Gravel</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Germany</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>13.9</Weight_kg>
+    <Price_USD>660</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="2">
+    <Brand>Specialized</Brand>
+    <Model>Electric 338</Model>
+    <Type>Mountain</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Germany</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>7</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>15.0</Weight_kg>
+    <Price_USD>3187</Price_USD>
+    <Year>2019</Year>
+  </Bicycle>
+  <Bicycle id="3">
+    <Brand>Giant</Brand>
+    <Model>Electric 881</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Blue</Color>
+    <Country>Taiwan</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>15.3</Weight_kg>
+    <Price_USD>4792</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="4">
+    <Brand>Bianchi</Brand>
+    <Model>Road 665</Model>
+    <Type>Gravel</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>17.9</Weight_kg>
+    <Price_USD>2307</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="5">
+    <Brand>Bianchi</Brand>
+    <Model>Gravel 564</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Gray</Color>
+    <Country>Italy</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>13.3</Weight_kg>
+    <Price_USD>2405</Price_USD>
+    <Year>2017</Year>
+  </Bicycle>
+  <Bicycle id="6">
+    <Brand>Merida</Brand>
+    <Model>Folding 376</Model>
+    <Type>Electric</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Germany</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>10.1</Weight_kg>
+    <Price_USD>5046</Price_USD>
+    <Year>2020</Year>
+  </Bicycle>
+  <Bicycle id="7">
+    <Brand>Cannondale</Brand>
+    <Model>BMX 505</Model>
+    <Type>BMX</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>White</Color>
+    <Country>Germany</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>15.5</Weight_kg>
+    <Price_USD>3909</Price_USD>
+    <Year>2024</Year>
+  </Bicycle>
+  <Bicycle id="8">
+    <Brand>Bianchi</Brand>
+    <Model>Touring 324</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Blue</Color>
+    <Country>France</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>9</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>14.0</Weight_kg>
+    <Price_USD>3552</Price_USD>
+    <Year>2021</Year>
+  </Bicycle>
+  <Bicycle id="9">
+    <Brand>Canyon</Brand>
+    <Model>BMX 641</Model>
+    <Type>Gravel</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Blue</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>12.3</Weight_kg>
+    <Price_USD>4116</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="10">
+    <Brand>Scott</Brand>
+    <Model>Hybrid 619</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Germany</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>14.0</Weight_kg>
+    <Price_USD>4402</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="11">
+    <Brand>Specialized</Brand>
+    <Model>Touring 999</Model>
+    <Type>Gravel</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Germany</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>21</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>17.8</Weight_kg>
+    <Price_USD>4763</Price_USD>
+    <Year>2017</Year>
+  </Bicycle>
+  <Bicycle id="12">
+    <Brand>Giant</Brand>
+    <Model>BMX 662</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Germany</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>18</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>12.4</Weight_kg>
+    <Price_USD>4639</Price_USD>
+    <Year>2022</Year>
+  </Bicycle>
+  <Bicycle id="13">
+    <Brand>Specialized</Brand>
+    <Model>Electric 330</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>7</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>15.1</Weight_kg>
+    <Price_USD>882</Price_USD>
+    <Year>2018</Year>
+  </Bicycle>
+  <Bicycle id="14">
+    <Brand>Specialized</Brand>
+    <Model>Mountain 980</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Italy</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>9</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>10.4</Weight_kg>
+    <Price_USD>4274</Price_USD>
+    <Year>2021</Year>
+  </Bicycle>
+  <Bicycle id="15">
+    <Brand>Cannondale</Brand>
+    <Model>Road 199</Model>
+    <Type>Folding</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Taiwan</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>12.0</Weight_kg>
+    <Price_USD>3179</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="16">
+    <Brand>Cannondale</Brand>
+    <Model>Electric 294</Model>
+    <Type>BMX</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Germany</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>16.1</Weight_kg>
+    <Price_USD>4908</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="17">
+    <Brand>Trek</Brand>
+    <Model>Mountain 195</Model>
+    <Type>Electric</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Taiwan</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Men</Gender>
+    <Gears>7</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>11.8</Weight_kg>
+    <Price_USD>3598</Price_USD>
+    <Year>2019</Year>
+  </Bicycle>
+  <Bicycle id="18">
+    <Brand>Merida</Brand>
+    <Model>Gravel 533</Model>
+    <Type>BMX</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Italy</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>15.5</Weight_kg>
+    <Price_USD>868</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="19">
+    <Brand>Canyon</Brand>
+    <Model>BMX 614</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Blue</Color>
+    <Country>France</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>12.0</Weight_kg>
+    <Price_USD>5066</Price_USD>
+    <Year>2018</Year>
+  </Bicycle>
+  <Bicycle id="20">
+    <Brand>Canyon</Brand>
+    <Model>Mountain 734</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Gray</Color>
+    <Country>Italy</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>12</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>10.7</Weight_kg>
+    <Price_USD>1472</Price_USD>
+    <Year>2025</Year>
+  </Bicycle>
+  <Bicycle id="21">
+    <Brand>Scott</Brand>
+    <Model>BMX 423</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Orange</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>9.3</Weight_kg>
+    <Price_USD>3259</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="22">
+    <Brand>Cannondale</Brand>
+    <Model>Touring 391</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>White</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>17.4</Weight_kg>
+    <Price_USD>1500</Price_USD>
+    <Year>2019</Year>
+  </Bicycle>
+  <Bicycle id="23">
+    <Brand>Specialized</Brand>
+    <Model>Road 860</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>White</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>13.1</Weight_kg>
+    <Price_USD>2457</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="24">
+    <Brand>Specialized</Brand>
+    <Model>Folding 949</Model>
+    <Type>Gravel</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Italy</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>9</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>13.5</Weight_kg>
+    <Price_USD>3903</Price_USD>
+    <Year>2023</Year>
+  </Bicycle>
+  <Bicycle id="25">
+    <Brand>Trek</Brand>
+    <Model>Road 177</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Gray</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>7</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>11.6</Weight_kg>
+    <Price_USD>6921</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="26">
+    <Brand>Cube</Brand>
+    <Model>Electric 798</Model>
+    <Type>Electric</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Gray</Color>
+    <Country>France</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>9</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>16.6</Weight_kg>
+    <Price_USD>6952</Price_USD>
+    <Year>2017</Year>
+  </Bicycle>
+  <Bicycle id="27">
+    <Brand>Bianchi</Brand>
+    <Model>Mountain 283</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Italy</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>18</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>16.6</Weight_kg>
+    <Price_USD>2222</Price_USD>
+    <Year>2018</Year>
+  </Bicycle>
+  <Bicycle id="28">
+    <Brand>Merida</Brand>
+    <Model>Touring 412</Model>
+    <Type>Electric</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>17.7</Weight_kg>
+    <Price_USD>2686</Price_USD>
+    <Year>2020</Year>
+  </Bicycle>
+  <Bicycle id="29">
+    <Brand>Santa Cruz</Brand>
+    <Model>Folding 795</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>Blue</Color>
+    <Country>Italy</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Men</Gender>
+    <Gears>7</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>14.0</Weight_kg>
+    <Price_USD>3231</Price_USD>
+    <Year>2020</Year>
+  </Bicycle>
+  <Bicycle id="30">
+    <Brand>Bianchi</Brand>
+    <Model>Road 494</Model>
+    <Type>Electric</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>11.6</Weight_kg>
+    <Price_USD>973</Price_USD>
+    <Year>2025</Year>
+  </Bicycle>
+  <Bicycle id="31">
+    <Brand>Cube</Brand>
+    <Model>Touring 779</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>White</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>9.9</Weight_kg>
+    <Price_USD>5847</Price_USD>
+    <Year>2021</Year>
+  </Bicycle>
+  <Bicycle id="32">
+    <Brand>Giant</Brand>
+    <Model>Gravel 515</Model>
+    <Type>Mountain</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>White</Color>
+    <Country>Germany</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>12</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>12.4</Weight_kg>
+    <Price_USD>5934</Price_USD>
+    <Year>2018</Year>
+  </Bicycle>
+  <Bicycle id="33">
+    <Brand>Santa Cruz</Brand>
+    <Model>BMX 912</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>White</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>16.1</Weight_kg>
+    <Price_USD>1607</Price_USD>
+    <Year>2015</Year>
+  </Bicycle>
+  <Bicycle id="34">
+    <Brand>Trek</Brand>
+    <Model>Electric 586</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>18</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>12.0</Weight_kg>
+    <Price_USD>1608</Price_USD>
+    <Year>2025</Year>
+  </Bicycle>
+  <Bicycle id="35">
+    <Brand>Trek</Brand>
+    <Model>Road 897</Model>
+    <Type>Folding</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Green</Color>
+    <Country>France</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>12.6</Weight_kg>
+    <Price_USD>6965</Price_USD>
+    <Year>2022</Year>
+  </Bicycle>
+  <Bicycle id="36">
+    <Brand>Santa Cruz</Brand>
+    <Model>Touring 873</Model>
+    <Type>BMX</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Orange</Color>
+    <Country>Germany</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>15.7</Weight_kg>
+    <Price_USD>4670</Price_USD>
+    <Year>2022</Year>
+  </Bicycle>
+  <Bicycle id="37">
+    <Brand>Cannondale</Brand>
+    <Model>Gravel 550</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Black</Color>
+    <Country>Italy</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Women</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>9.5</Weight_kg>
+    <Price_USD>3537</Price_USD>
+    <Year>2017</Year>
+  </Bicycle>
+  <Bicycle id="38">
+    <Brand>Cannondale</Brand>
+    <Model>Road 524</Model>
+    <Type>Folding</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Orange</Color>
+    <Country>Taiwan</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Men</Gender>
+    <Gears>18</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>16.6</Weight_kg>
+    <Price_USD>6671</Price_USD>
+    <Year>2024</Year>
+  </Bicycle>
+  <Bicycle id="39">
+    <Brand>Bianchi</Brand>
+    <Model>BMX 106</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>France</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>12.9</Weight_kg>
+    <Price_USD>2635</Price_USD>
+    <Year>2021</Year>
+  </Bicycle>
+  <Bicycle id="40">
+    <Brand>Merida</Brand>
+    <Model>Mountain 498</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Green</Color>
+    <Country>France</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>17.1</Weight_kg>
+    <Price_USD>5248</Price_USD>
+    <Year>2024</Year>
+  </Bicycle>
+  <Bicycle id="41">
+    <Brand>Trek</Brand>
+    <Model>Road 758</Model>
+    <Type>Folding</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Orange</Color>
+    <Country>Germany</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>12</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>12.5</Weight_kg>
+    <Price_USD>3164</Price_USD>
+    <Year>2021</Year>
+  </Bicycle>
+  <Bicycle id="42">
+    <Brand>Scott</Brand>
+    <Model>Folding 358</Model>
+    <Type>Road</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Red</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>8</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>15.5</Weight_kg>
+    <Price_USD>2425</Price_USD>
+    <Year>2018</Year>
+  </Bicycle>
+  <Bicycle id="43">
+    <Brand>Trek</Brand>
+    <Model>Hybrid 344</Model>
+    <Type>Hybrid</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Blue</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Women</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>9.7</Weight_kg>
+    <Price_USD>5374</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="44">
+    <Brand>Giant</Brand>
+    <Model>Gravel 210</Model>
+    <Type>Mountain</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Taiwan</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>15.0</Weight_kg>
+    <Price_USD>2870</Price_USD>
+    <Year>2025</Year>
+  </Bicycle>
+  <Bicycle id="45">
+    <Brand>Canyon</Brand>
+    <Model>Road 915</Model>
+    <Type>Mountain</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Netherlands</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Women</Gender>
+    <Gears>12</Gears>
+    <WheelSize_inch>26</WheelSize_inch>
+    <Weight_kg>16.5</Weight_kg>
+    <Price_USD>4415</Price_USD>
+    <Year>2016</Year>
+  </Bicycle>
+  <Bicycle id="46">
+    <Brand>Bianchi</Brand>
+    <Model>Touring 750</Model>
+    <Type>BMX</Type>
+    <FrameMaterial>Carbon</FrameMaterial>
+    <Color>Yellow</Color>
+    <Country>Germany</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Women</Gender>
+    <Gears>21</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>12.4</Weight_kg>
+    <Price_USD>6388</Price_USD>
+    <Year>2024</Year>
+  </Bicycle>
+  <Bicycle id="47">
+    <Brand>Scott</Brand>
+    <Model>Touring 972</Model>
+    <Type>Electric</Type>
+    <FrameMaterial>Aluminum</FrameMaterial>
+    <Color>White</Color>
+    <Country>Taiwan</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Women</Gender>
+    <Gears>18</Gears>
+    <WheelSize_inch>28</WheelSize_inch>
+    <Weight_kg>8.3</Weight_kg>
+    <Price_USD>3062</Price_USD>
+    <Year>2017</Year>
+  </Bicycle>
+  <Bicycle id="48">
+    <Brand>Merida</Brand>
+    <Model>Electric 463</Model>
+    <Type>Gravel</Type>
+    <FrameMaterial>Steel</FrameMaterial>
+    <Color>White</Color>
+    <Country>Switzerland</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Full</Suspension>
+    <Gender>Unisex</Gender>
+    <Gears>24</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>8.9</Weight_kg>
+    <Price_USD>6298</Price_USD>
+    <Year>2021</Year>
+  </Bicycle>
+  <Bicycle id="49">
+    <Brand>Merida</Brand>
+    <Model>Electric 807</Model>
+    <Type>BMX</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Orange</Color>
+    <Country>France</Country>
+    <BrakeType>Disc</BrakeType>
+    <Suspension>None</Suspension>
+    <Gender>Men</Gender>
+    <Gears>10</Gears>
+    <WheelSize_inch>29</WheelSize_inch>
+    <Weight_kg>14.9</Weight_kg>
+    <Price_USD>2908</Price_USD>
+    <Year>2025</Year>
+  </Bicycle>
+  <Bicycle id="50">
+    <Brand>Canyon</Brand>
+    <Model>Touring 584</Model>
+    <Type>Touring</Type>
+    <FrameMaterial>Titanium</FrameMaterial>
+    <Color>Gray</Color>
+    <Country>Italy</Country>
+    <BrakeType>Rim</BrakeType>
+    <Suspension>Front</Suspension>
+    <Gender>Men</Gender>
+    <Gears>11</Gears>
+    <WheelSize_inch>27.5</WheelSize_inch>
+    <Weight_kg>9.2</Weight_kg>
+    <Price_USD>1977</Price_USD>
+    <Year>2020</Year>
+  </Bicycle>
+</Bicycles>
